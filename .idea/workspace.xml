@@ -19,7 +19,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/html/note_api.dev" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -67,7 +67,7 @@
       <updated>1667386179854</updated>
       <workItem from="1667386181090" duration="17262000" />
       <workItem from="1667808278420" duration="19730000" />
-      <workItem from="1667837428273" duration="55315000" />
+      <workItem from="1667837428273" duration="56088000" />
     </task>
     <servers />
   </component>
