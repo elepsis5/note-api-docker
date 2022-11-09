@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c434eced-73f2-4732-8a41-1c4ed239b641" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2GzKsdVnanOfgcNpMeer954jEG8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/html/note_api.dev" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\OpenServer\domains\docker_test\www\html" />
+      <recent name="G:\OpenServer\domains\docker_test\hosts\apache" />
+      <recent name="G:\OpenServer\domains\docker_test\hosts\nginx" />
+      <recent name="G:\OpenServer\domains\docker_test\www\test.dev" />
+      <recent name="G:\OpenServer\domains\docker_test\images\php\php-apache" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\OpenServer\domains\docker_test" />
+      <recent name="G:\OpenServer\domains\docker_test\hosts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="docker-compose.yml.php: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="php" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.php: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c434eced-73f2-4732-8a41-1c4ed239b641" name="Default Changelist" comment="" />
+      <created>1667386179854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667386179854</updated>
+      <workItem from="1667386181090" duration="17262000" />
+      <workItem from="1667808278420" duration="19730000" />
+      <workItem from="1667837428273" duration="55315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667562879073">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="872" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1667562879073" />
+    <state x="1010" y="451" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1667834836021">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1010" y="451" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1667834836021" />
+    <state x="1060" y="451" key="FileChooserDialogImpl" timestamp="1667999816121">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1060" y="451" key="FileChooserDialogImpl/0.0.2560.1392@0.0.2560.1392" timestamp="1667999816121" />
+    <state x="1114" y="615" key="NewPhpFileDialog" timestamp="1667924575795">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1114" y="615" key="NewPhpFileDialog/0.0.2560.1392@0.0.2560.1392" timestamp="1667924575795" />
+    <state x="781" y="341" key="SettingsEditor" timestamp="1667837215635">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="781" y="341" key="SettingsEditor/0.0.2560.1392@0.0.2560.1392" timestamp="1667837215635" />
+    <state x="1181" y="567" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1667638117702">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1181" y="567" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.2560.1392@0.0.2560.1392" timestamp="1667638117702" />
+  </component>
+</project>
